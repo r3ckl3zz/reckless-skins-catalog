@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "skins": [
+    { "id": "rk-clown1", "name": "RK-CLOWN1", "file": "rk-clown1.png", "theme": "light" },
+    { "id": "my-first-skin", "name": "My First Skin", "file": "my-first-skin.png", "theme": "dark" }
+  ]
+}

@@ -7,6 +7,7 @@
     { "id": "rs-clown1", "name": "RS-CLOWN1", "file": "rs-clown1.gif", "theme": "dark", "type": "animated" },
     { "id": "rs-chartz", "name": "RS-CHARTZ", "file": "rs-chartz.gif", "theme": "dark", "type": "animated" },
     { "id": "rs-bullvsbear", "name": "RS-BULLVSBEAR", "file": "rs-bullvsbear.mp4", "theme": "dark", "type": "animated" },
-    { "id": "rs-recklesskinslogo", "name": "RS-RECKLESS LOGO", "file": "rs-recklesskinslogo.mp4", "theme": "dark", "type": "animated" }
+    { "id": "rs-recklesskinslogo", "name": "RS-RECKLESS LOGO", "file": "rs-recklesskinslogo.mp4", "theme": "dark", "type": "animated" },
+    { "id": "rs-xmasdeer", "name": "RS-XMASDEER", "file": "rs-xmasdeer.mp4", "theme": "dark", "type": "animated" }
   ]
 }

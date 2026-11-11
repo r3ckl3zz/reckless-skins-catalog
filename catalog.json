@@ -1,15 +1,31 @@
 {
   "version": 1,
-  "categories": ["Galaxy", "Retro", "Abstract", "Holiday", "Skulls", "Misc"],
+  "categories": ["Cars", "Cute", "Galaxy", "Skulls", "Clowns", "Holiday", "Misc"],
   "skins": [
-    { "id": "rk-clown1", "name": "RK-CLOWN1", "file": "rk-clown1.png", "theme": "light", "category": "Skulls" },
-    { "id": "rk-rain-ani", "name": "RK-RAIN", "file": "rk-rain-ani.gif", "theme": "dark", "type": "animated", "category": "Abstract" },
-    { "id": "rs-fye-animated", "name": "RS-FYE", "file": "rs-fye-animated.gif", "theme": "dark", "type": "animated", "category": "Misc" },
-    { "id": "rs-clown1", "name": "RS-CLOWN1", "file": "rs-clown1.gif", "theme": "dark", "type": "animated", "category": "Skulls" },
-    { "id": "rs-chartz", "name": "RS-CHARTZ", "file": "rs-chartz.gif", "theme": "dark", "type": "animated", "category": "Abstract" },
-    { "id": "rs-bullvsbear", "name": "RS-BULLVSBEAR", "file": "rs-bullvsbear.mp4", "theme": "dark", "type": "animated", "category": "Misc" },
-    { "id": "rs-recklesskinslogo", "name": "RS-RECKLESS LOGO", "file": "rs-recklesskinslogo.mp4", "theme": "dark", "type": "animated", "category": "Misc" },
+    { "id": "rs-car1", "name": "RS-CAR1", "file": "rs-car1.mp4", "theme": "dark", "type": "animated", "category": "Cars" },
+    { "id": "rs-car2", "name": "RS-CAR2", "file": "rs-car2.mp4", "theme": "dark", "type": "animated", "category": "Cars" },
+
+    { "id": "rs-heart1", "name": "RS-HEART1", "file": "rs-heart1.mp4", "theme": "dark", "type": "animated", "category": "Cute" },
+    { "id": "rs-smiley1", "name": "RS-SMILEY1", "file": "rs-smiley1.mp4", "theme": "dark", "type": "animated", "category": "Cute" },
+
+    { "id": "rs-galaxy1", "name": "RS-GALAXY1", "file": "rs-galaxy1.mp4", "theme": "dark", "type": "animated", "category": "Galaxy" },
+    { "id": "rs-galaxy2", "name": "RS-GALAXY2", "file": "rs-galaxy2.mp4", "theme": "dark", "type": "animated", "category": "Galaxy" },
+
+    { "id": "rs-skull1", "name": "RS-SKULL1", "file": "rs-skull1.mp4", "theme": "dark", "type": "animated", "category": "Skulls" },
+    { "id": "rs-skull1b", "name": "RS-SKULL1B", "file": "rs-skull1b.mp4", "theme": "dark", "type": "animated", "category": "Skulls" },
+    { "id": "rs-smileyskull", "name": "RS-SMILEYSKULL", "file": "rs-smileyskull.mp4", "theme": "dark", "type": "animated", "category": "Skulls" },
+
+    { "id": "rk-clown1", "name": "RK-CLOWN1", "file": "rk-clown1.png", "theme": "light", "category": "Clowns" },
+    { "id": "rs-clown1", "name": "RS-CLOWN1", "file": "rs-clown1.gif", "theme": "dark", "type": "animated", "category": "Clowns" },
+    { "id": "rs-clowndance", "name": "RS-CLOWNDANCE", "file": "rs-clowndance.mp4", "theme": "dark", "type": "animated", "category": "Clowns" },
+
     { "id": "rs-xmasdeer", "name": "RS-XMASDEER", "file": "rs-xmasdeer.mp4", "theme": "dark", "type": "animated", "category": "Holiday" },
-    { "id": "rs-clowndance", "name": "RS-CLOWNDANCE", "file": "rs-clowndance.mp4", "theme": "dark", "type": "animated", "category": "Skulls" }
+
+    { "id": "my-first-skin", "name": "My First Skin", "file": "my-first-skin.png", "theme": "dark", "category": "Misc" },
+    { "id": "rk-rain-ani", "name": "RK-RAIN", "file": "rk-rain-ani.gif", "theme": "dark", "type": "animated", "category": "Misc" },
+    { "id": "rs-bullvsbear", "name": "RS-BULLVSBEAR", "file": "rs-bullvsbear.mp4", "theme": "dark", "type": "animated", "category": "Misc" },
+    { "id": "rs-chartz", "name": "RS-CHARTZ", "file": "rs-chartz.gif", "theme": "dark", "type": "animated", "category": "Misc" },
+    { "id": "rs-fye-animated", "name": "RS-FYE", "file": "rs-fye-animated.gif", "theme": "dark", "type": "animated", "category": "Misc" },
+    { "id": "rs-recklesskinslogo", "name": "RS-RECKLESS LOGO", "file": "rs-recklesskinslogo.mp4", "theme": "dark", "type": "animated", "category": "Misc" }
   ]
 }

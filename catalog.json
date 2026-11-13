@@ -31,6 +31,7 @@
     { "id": "rs-chartz", "name": "RS-CHARTZ", "file": "rs-chartz.gif", "theme": "dark", "type": "animated", "category": "Custom" },
     { "id": "rs-fido", "name": "RS-FIDO", "file": "rs-fido.mp4", "theme": "dark", "type": "animated", "category": "Custom" },
     { "id": "rs-fido2", "name": "RS-FIDO2", "file": "rs-fido2.mp4", "theme": "dark", "type": "animated", "category": "Custom" },
+    { "id": "rs-misetest", "name": "RS-MISETEST", "file": "rs-misetest.mp4", "theme": "dark", "type": "animated", "category": "Custom" },
     { "id": "rs-recklesskinslogo", "name": "RS-RECKLESS LOGO", "file": "rs-recklesskinslogo.mp4", "theme": "dark", "type": "animated", "category": "Custom" }
   ]
 }

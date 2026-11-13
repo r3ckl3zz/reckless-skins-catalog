@@ -27,7 +27,7 @@
     { "id": "rs-fye-animated", "name": "RS-FYE", "file": "rs-fye-animated.gif", "theme": "dark", "type": "animated", "category": "Misc" },
 
     { "id": "rs-chartz", "name": "RS-CHARTZ", "file": "rs-chartz.gif", "theme": "dark", "type": "animated", "category": "Custom" },
-    { "id": "rs-fidocustom", "name": "RS-FIDO CUSTOM", "file": "rs-fidocustom.mp4", "theme": "dark", "type": "animated", "category": "Custom" },
+    { "id": "rs-fido", "name": "RS-FIDO", "file": "rs-fido.mp4", "theme": "dark", "type": "animated", "category": "Custom" },
     { "id": "rs-recklesskinslogo", "name": "RS-RECKLESS LOGO", "file": "rs-recklesskinslogo.mp4", "theme": "dark", "type": "animated", "category": "Custom" }
   ]
 }

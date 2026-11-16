@@ -1,37 +1,43 @@
 {
   "version": 1,
-  "categories": ["Cars", "Cute", "Galaxy", "Skulls", "Clowns", "Holiday", "Misc", "Countries", "Custom"],
+  "categories": ["Cars", "Cute", "Galaxy", "Retro", "Skulls", "Clowns", "Scenery", "Countries", "Misc"],
   "skins": [
-    { "id": "rs-car1", "name": "RS-CAR1", "file": "rs-car1.mp4", "theme": "dark", "type": "animated", "category": "Cars" },
-    { "id": "rs-car2", "name": "RS-CAR2", "file": "rs-car2.mp4", "theme": "dark", "type": "animated", "category": "Cars" },
+    { "id": "rs-car1", "name": "RS-CAR1", "file": "rs-car1-v2.mp4", "theme": "dark", "type": "animated", "category": "Cars" },
+    { "id": "rs-car2", "name": "RS-CAR2", "file": "rs-car2-v2.mp4", "theme": "dark", "type": "animated", "category": "Cars" },
+    { "id": "rs-car3", "name": "RS-CAR3", "file": "rs-car3.mp4", "theme": "dark", "type": "animated", "category": "Cars" },
+    { "id": "rs-car4", "name": "RS-CAR4", "file": "rs-car4.mp4", "theme": "dark", "type": "animated", "category": "Cars" },
+    { "id": "rs-car5", "name": "RS-CAR5", "file": "rs-car5.mp4", "theme": "dark", "type": "animated", "category": "Cars" },
 
-    { "id": "rs-heart1", "name": "RS-HEART1", "file": "rs-heart1.mp4", "theme": "dark", "type": "animated", "category": "Cute" },
-    { "id": "rs-smiley1", "name": "RS-SMILEY1", "file": "rs-smiley1.mp4", "theme": "dark", "type": "animated", "category": "Cute" },
+    { "id": "rs-heart1", "name": "RS-HEART1", "file": "rs-heart1-v2.mp4", "theme": "dark", "type": "animated", "category": "Cute" },
+    { "id": "rs-heart2", "name": "RS-HEART2", "file": "rs-heart2.mp4", "theme": "dark", "type": "animated", "category": "Cute" },
+    { "id": "rs-heart3", "name": "RS-HEART3", "file": "rs-heart3.mp4", "theme": "dark", "type": "animated", "category": "Cute" },
+    { "id": "rs-smiley1", "name": "RS-SMILEY1", "file": "rs-smile1-v2.mp4", "theme": "dark", "type": "animated", "category": "Cute" },
+    { "id": "rs-smiley3", "name": "RS-SMILEY3", "file": "rs-smiley3.mp4", "theme": "dark", "type": "animated", "category": "Cute" },
 
-    { "id": "rs-galaxy1", "name": "RS-GALAXY1", "file": "rs-galaxy1.mp4", "theme": "dark", "type": "animated", "category": "Galaxy" },
-    { "id": "rs-galaxy2", "name": "RS-GALAXY2", "file": "rs-galaxy2.mp4", "theme": "dark", "type": "animated", "category": "Galaxy" },
+    { "id": "rs-galaxy1", "name": "RS-GALAXY1", "file": "rs-galaxy1-v2.mp4", "theme": "dark", "type": "animated", "category": "Galaxy" },
+    { "id": "rs-galaxy2", "name": "RS-GALAXY2", "file": "rs-galaxy2-v2.mp4", "theme": "dark", "type": "animated", "category": "Galaxy" },
 
-    { "id": "rs-skull1", "name": "RS-SKULL1", "file": "rs-skull1.mp4", "theme": "dark", "type": "animated", "category": "Skulls" },
-    { "id": "rs-skull1b", "name": "RS-SKULL1B", "file": "rs-skull1b.mp4", "theme": "dark", "type": "animated", "category": "Skulls" },
-    { "id": "rs-smileyskull", "name": "RS-SMILEYSKULL", "file": "rs-smileyskull.mp4", "theme": "dark", "type": "animated", "category": "Skulls" },
+    { "id": "rs-retrocityscape1", "name": "RS-RETRO CITYSCAPE 1", "file": "rs-retrocityscape1.mp4", "theme": "dark", "type": "animated", "category": "Retro" },
+    { "id": "rs-retrocityscape2", "name": "RS-RETRO CITYSCAPE 2", "file": "rs-retrocityscape2.mp4", "theme": "dark", "type": "animated", "category": "Retro" },
+    { "id": "rs-retrolandscape", "name": "RS-RETRO LANDSCAPE", "file": "rs-retrolandscape.mp4", "theme": "dark", "type": "animated", "category": "Retro" },
+    { "id": "rs-retrospacegrid", "name": "RS-RETRO SPACE GRID", "file": "rs-retrospacegrid.mp4", "theme": "dark", "type": "animated", "category": "Retro" },
+    { "id": "rs-retrosunset", "name": "RS-RETRO SUNSET", "file": "rs-retrosunset.mp4", "theme": "dark", "type": "animated", "category": "Retro" },
 
-    { "id": "rk-clown1", "name": "RK-CLOWN1", "file": "rk-clown1.png", "theme": "light", "category": "Clowns" },
-    { "id": "rs-clown1", "name": "RS-CLOWN1", "file": "rs-clown1.gif", "theme": "dark", "type": "animated", "category": "Clowns" },
-    { "id": "rs-clowndance", "name": "RS-CLOWNDANCE", "file": "rs-clowndance.mp4", "theme": "dark", "type": "animated", "category": "Clowns" },
+    { "id": "rs-skull1", "name": "RS-SKULL1", "file": "rs-skull1-v2.mp4", "theme": "dark", "type": "animated", "category": "Skulls" },
+    { "id": "rs-smileyskull", "name": "RS-SMILEYSKULL", "file": "rs-smileyskull-v2.mp4", "theme": "dark", "type": "animated", "category": "Skulls" },
 
-    { "id": "rs-xmasdeer", "name": "RS-XMASDEER", "file": "rs-xmasdeer.mp4", "theme": "dark", "type": "animated", "category": "Holiday" },
+    { "id": "rs-clowndance", "name": "RS-CLOWNDANCE", "file": "rs-clowndance-v2.mp4", "theme": "dark", "type": "animated", "category": "Clowns" },
 
-    { "id": "rk-rain-ani", "name": "RK-RAIN", "file": "rk-rain-ani.gif", "theme": "dark", "type": "animated", "category": "Misc" },
-    { "id": "rs-bullvsbear", "name": "RS-BULLVSBEAR", "file": "rs-bullvsbear.mp4", "theme": "dark", "type": "animated", "category": "Misc" },
-    { "id": "rs-bullvsbear1b", "name": "RS-BULLVSBEAR1B", "file": "rs-bullvsbear1b.mp4", "theme": "dark", "type": "animated", "category": "Misc" },
-    { "id": "rs-fye-animated", "name": "RS-FYE", "file": "rs-fye-animated.gif", "theme": "dark", "type": "animated", "category": "Misc" },
+    { "id": "rs-mountainskies", "name": "RS-MOUNTAIN SKIES", "file": "rs-mountainskies.mp4", "theme": "dark", "type": "animated", "category": "Scenery" },
+    { "id": "rs-oceansky1", "name": "RS-OCEAN SKY 1", "file": "rs-oceansky1.mp4", "theme": "dark", "type": "animated", "category": "Scenery" },
+    { "id": "rs-oceansky2", "name": "RS-OCEAN SKY 2", "file": "rs-oceansky2.mp4", "theme": "dark", "type": "animated", "category": "Scenery" },
+    { "id": "rs-oceansky3", "name": "RS-OCEAN SKY 3", "file": "rs-oceansky3.mp4", "theme": "dark", "type": "animated", "category": "Scenery" },
 
-    { "id": "rs-cuba1", "name": "RS-CUBA1", "file": "rs-cuba1.mp4", "theme": "dark", "type": "animated", "category": "Countries" },
+    { "id": "rs-cuba1", "name": "RS-CUBA1", "file": "rs-cuba1-v2.mp4", "theme": "dark", "type": "animated", "category": "Countries" },
 
-    { "id": "rs-chartz", "name": "RS-CHARTZ", "file": "rs-chartz.gif", "theme": "dark", "type": "animated", "category": "Custom" },
-    { "id": "rs-fido", "name": "RS-FIDO", "file": "rs-fido.mp4", "theme": "dark", "type": "animated", "category": "Custom" },
-    { "id": "rs-fido2", "name": "RS-FIDO2", "file": "rs-fido2.mp4", "theme": "dark", "type": "animated", "category": "Custom" },
-    { "id": "rs-misetest", "name": "RS-MISETEST", "file": "rs-misetest.mp4", "theme": "dark", "type": "animated", "category": "Custom" },
-    { "id": "rs-recklesskinslogo", "name": "RS-RECKLESS LOGO", "file": "rs-recklesskinslogo.mp4", "theme": "dark", "type": "animated", "category": "Custom" }
+    { "id": "rs-bullvsbear", "name": "RS-BULLVSBEAR", "file": "rs-bullvsbear-v2.mp4", "theme": "dark", "type": "animated", "category": "Misc" },
+    { "id": "rs-fye-animated", "name": "RS-FYE", "file": "rs-fyelogo.mp4", "theme": "dark", "type": "animated", "category": "Misc" },
+    { "id": "rk-rain-ani", "name": "RS-RAIN", "file": "rs-rain-v2.mp4", "theme": "dark", "type": "animated", "category": "Misc" },
+    { "id": "rs-recklesskinslogo", "name": "RS-RECKLESS LOGO", "file": "rs-rslogo.mp4", "theme": "dark", "type": "animated", "category": "Misc" }
   ]
 }

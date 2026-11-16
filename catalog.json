@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "categories": ["Cars", "Cute", "Galaxy", "Retro", "Skulls", "Clowns", "Scenery", "Countries", "Misc"],
+  "categories": ["Cars", "Cute", "Galaxy", "Retro", "Skulls", "Clowns", "Holiday", "Scenery", "Countries", "Misc"],
   "skins": [
     { "id": "rs-car1", "name": "RS-CAR1", "file": "rs-car1-v2.mp4", "theme": "dark", "type": "animated", "category": "Cars" },
     { "id": "rs-car2", "name": "RS-CAR2", "file": "rs-car2-v2.mp4", "theme": "dark", "type": "animated", "category": "Cars" },
@@ -27,6 +27,8 @@
     { "id": "rs-smileyskull", "name": "RS-SMILEYSKULL", "file": "rs-smileyskull-v2.mp4", "theme": "dark", "type": "animated", "category": "Skulls" },
 
     { "id": "rs-clowndance", "name": "RS-CLOWNDANCE", "file": "rs-clowndance-v2.mp4", "theme": "dark", "type": "animated", "category": "Clowns" },
+
+    { "id": "rs-xmasdeer", "name": "RS-XMASDEER", "file": "rs-xmasdeer-v2.mp4", "theme": "dark", "type": "animated", "category": "Holiday" },
 
     { "id": "rs-mountainskies", "name": "RS-MOUNTAIN SKIES", "file": "rs-mountainskies.mp4", "theme": "dark", "type": "animated", "category": "Scenery" },
     { "id": "rs-oceansky1", "name": "RS-OCEAN SKY 1", "file": "rs-oceansky1.mp4", "theme": "dark", "type": "animated", "category": "Scenery" },
